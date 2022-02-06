@@ -7,7 +7,7 @@
 
 ## Code 201 Reading notes
 
-### [Chapter 0: introduction to html and javascript](Class-01.md)
+### [201-Notes-01](Class-01.md)
 
 
     
