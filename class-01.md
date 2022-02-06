@@ -437,7 +437,7 @@ This means basically the html layer is what we see, the CSS is how we see it lik
                       
 How to use objects and methods:
         
-    ```          
+   ```          
         Document         .           write         ('good afternoon!');
         |_______|       |_|         |______________|__________________|___|
             |            |                       |            |
