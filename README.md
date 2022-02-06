@@ -9,7 +9,7 @@
 
 ## Code 201 Reading notes
 
-### [201-Notes-01](Class-01.md)
+### [201-Notes-01](class-01.md)
 ### [201-Notes-02]
 ### [201-Notes-03]
 ### [201-Notes-04]
