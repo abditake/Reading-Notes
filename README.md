@@ -7,7 +7,7 @@
 
 ## Code 201 Reading notes
 
-### [Chapter 0: introduction to html and javascript](https://github.com/abditake/Reading-Notes/blob/993d6e4a96004d5daa16c3f4abf5cdb3621fb6f9/Class-01.md)
+### [Chapter 0: introduction to html and javascript](https://github.com/abditake/Reading-Notes/blob/53757ee9d61bc21a55e7ad5952ecc2b1e161dfec/Class-01.md)
 
 
     
