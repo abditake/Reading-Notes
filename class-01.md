@@ -180,9 +180,87 @@ is being added to the element. The Value is the Information of the Attribute.
 
 We know that the internet is always changing and improving and with those<br>
 improvments there different version of code that people use. <br>
-===
+
 how do we differenciate which version of Html we are using and communicate<br>
-that to the computer?
+that to the computer? 
+
+![Thinking?](https://qoobee.com/wp-content/uploads/EMO_080.gif)
+
+### We use DOCTYPES!!!
+
+Doctypes tell the broswer which version of HTML your webpage is using.<br>
+the use of Doctypes is what allows certain webpages to render correctly.
+
+Syntax Run-Through:
+```
+
+<!-- -->
+
+If you want to add a comment
+to your code that will not be
+visible in the user's browser, you
+can add the text between these
+characters.
+```
+
+```
+<div>
+This element allows to group up
+a set of elements to one block level.
+
+```
+
+```
+<span>
+This is used for one of two things
+
+1. Seperating text you want to differentiate from
+the rest.
+2.Contain inline elements
+
+```
+`<em> <em>`<br>
+`<strong> <strong>`<br>
+`<b> <b>`<br>
+
+These are all examples of inline elements<br>
+
+`<em>` tag puts emphasis on a piece of _text_<br>
+`<strong>` tag make the text **bolded**<br>
+ `<b>` does the samething <b>strong does<br>
+  
+  ```
+<Iframes>
+This lets you cut a certain amount of a webpage and put it direcrly
+into your webpage
+```
+
+```
+<meta>
+ Meta tags are pieces of information you use to tell the search engines and 
+ those viewing your site more about your page and the information it contains.
+
+```
+The <meta> element also uses the http-equiv and content attributes in pairs.<br>
+In our example, you can see three instances of the httpequiv attribute. Each one has a<br>
+different purpose 
+ 
+<strong>Author: This defines the author of the<br>
+web page.<br>
+
+ <strong>Pragma:<br>
+This prevents the browser from aching the page. (That is,<br>
+storing it locally to save time downloading it on subsequent<br>
+visits.)<br>
+
+<strong>Expires:<br>
+Because browsers often cache the content of a page, the<br>
+expires option can be used to indicate when the page<br>
+should expire (and no longer be cached). Note that the date must<br>
+be specified in the format shown<br>
+ 
+ 
+ 
 
 ## <a name="html3">HTML5 Layout</a>
  asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF
