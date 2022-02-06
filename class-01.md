@@ -1,4 +1,4 @@
-# Reading 1: Introductory to html and javascript
+# Class 01: Introductory to html and javascript
 
 
 ### - [Duckett HTML book: Introductions](#html0)
