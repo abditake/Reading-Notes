@@ -346,13 +346,113 @@ of the website.<br>
 ![wireframe](https://cdn-images.visual-paradigm.com/handbooks/agile-handbook/wireframe/01-youtube-wireframe-example.png)
                       
  Designing Navigation:
- - Concise
- - Clear
- - Selective
+ - Concise: The user should be able to navigate your webpage quickyl and effciently.
+ - Clear: The user should never feel lost when viewing the webpage.
+ - Selective: Your website shouldn't all its information on one page. Things like the login and contacts shouldn't clutter your main information 
                       
                       
                       
 ## <a name="js1">JS Introduction</a>
- asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF
+ - What is the purpose of javascript?<br>
+    - What is javascript?<br>
+
+*Javascript is a coding language that is used to make webpages interactive.*                   
+
+  - Why does a webpage need to be interactive?<br>
+    - What does interactive mean?<br>
+
+
+On a standard html page everything the user will experience is laid out to them. There might be different fonts and style <br>
+but what they see is pretty much the website. Javascript works in conjunction with html to create feedback for the users<br>
+actions. This feedback or response is what makes a webpage interactive. Javascript allows you to change the code on the webpage<br>
+while the user is viewing it.
+   
+                      
+  - Examples of this include<br>
+               - Slideshows<br>
+               - Forms<br>
+*Both of these are a form of user input based scripts.*<br>
+Javascripts use events to run scripts on a webpage. These events are what I refered to as user inputs.<br>
+```                     
+             • A link is clicked (or tapped) on
+             • A cursor hovers over an element
+             • Information is added to a form
+             • An interval of time has passed
+             • A web page has finished loading 
+```
 ## <a name="js2">The ABC of Programming</a> 
- asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF
+ Scripts:<br>
+A collection of steps as a form of instructions(code) for a computer to follow.<br>
+Webpages can have multiple scripts on them but will only start running when the user interacts with them.<br>
+To Successfully writing a script you need to have an end goal, then list out things you need to do to get that result.<br>
+1. Define the goal<br>
+2. Design the script<br>
+3. Code each step<br>
+  
+People use flowcharts when drafting ideas for scripts. Flowcharts allow you categorize all the tasks needed to get the desired<br>
+end result.<br>
+    ![flowchart](https://jquery-plugins.net/image/plugin/flowchartjs-svg-flow-chart-diagrams-with-javascript.png)
+                     
+Every section in a flowchart needs to be written in a language a computer can understand them. For us we can cut corners on how<br>
+much information we write to make a suffcient task list. For example below I will indicate how to make a PB&J sandwich.<br>
+                    1. get bread, jelly and peanut butter<br>
+                    2. spread them on two pieces of bread<br>
+                    3. now you have a sandwhich<br>
+Me and you both know I left out a lot of information. <br>
+                      - What kind of untensil am I using? <br>
+                      - which side of the bread go together?<br>
+                      - how much peanut butter?<br>
+                      - how much jelly?<br>
+                      - which side to put peanut butter and jelly?<br>
+                      - finally closing the PB&J<br>
+For us this is intuitive. We can even go as far as just listing the ingredients on a piece of paper with all the supplies. A good amount<br>
+of people can make out that they need to make a PB&J.<br>
+
+This is very different from how a computer solve tasks. Computers need detailed information about what their doing. The information written<br>
+needs to be effiecent yet very concise. This is a hard balance.<br>
+                      
+                      
+ Computers need to be told Precisely what is in their enviornment(code). If a code has section that leave the computer in the dark,<br>
+ you won't get the result you desire because the computer wasn't given suffient information. This is where objects and properties come in.<br>
+ 
+  Objects:<br>
+ - an entity with properties and type<br>
+  Properties:<br>
+ - the values associated with a javascript object<br>
+The properties of an object changes with the introduction of events. Events are just another word for user inputs. these events can happen anywhere<br>
+on the page. Programers are able to choose which event will trigger which part of the script.<br>
+
+Method:<br>
+changes the value of object's properties. it adds another layer of information added to the object. Method carries instructions that don't necessarily <br>
+need to complete its task. They just need to be able to ask the question and interpret answers it gives you.<br>
+
+Webpages interactivesness comes from using code that use the browsers model of the web page.<br>
+                      
+HTML CSS and Javascript are explained simple by attributing them to layers.<br>
+- Html is the content layer<br>
+- CSS is the presentation layer<br>
+- Javascript is the behavior layer<br>
+This means basically the html layer is what we see, the CSS is how we see it like style font and the javascript is how it reacts to the user.<br>
+                      
+                      
+How to use objects and methods:
+        
+    ```          
+        Document         .           write         ('good afternoon!');
+        |_______|       |_|         |______________|__________________|___|
+            |            |                       |            |
+            V            V                       |            V
+         object    member operator               |        parameters
+                                                 V
+                                               Method
+   
+  ```
+                      
+  Member operators: within the document there can be a lot of methods and properties. These are known as members of that object. to access members you put<br?
+  ```.``` between object and the member you want to access.
+  
+  Parameters: data that method can require to work.<br>
+                      
+  Method: the ```write()```method is what allows content to be written into the page where the```script``` element sits.<br>
+  
+  In Html where there is a script element the brows stops and makes sure to load the ```<script>``` element.
