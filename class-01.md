@@ -263,10 +263,95 @@ be specified in the format shown<br>
  
 
 ## <a name="html3">HTML5 Layout</a>
- asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF
-## <a name="html4">Proccess and Design</a>
- asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF
 
+In a traditional html layout authors used the ```<div>``` element to group together <br>
+related elements; html5 has changed so that new elements were added which replaced<br>
+all the uneccessary bulk behind using the ```<div>``` element. This in turn made the website<br>
+much easier to follow. 
+ 
+``` 
+ <div id="header">
+        ^
+        |
+      This turned into  |
+                        V
+                     <header>
+```
+Even now newer builds of html are updadted that add more funtionality and more control<br>
+to the user. Here are some examples of this
+                    
+- ``` <footer> ```:<br>
+can used in conjunction with ```<header>``` to show links to websites that were included in
+the header.
+- ``` <nav> ```:<br>
+This is used hold to big navigation blocks like to the privacy policy, and terms of conditions<br>
+at the bottom of the page. It basically just navigates to a place on a webpage(not other webpages).
+                      
+- ``` <article> ```:<br>
+Article is interesting becuase you can think of it as an independent block of code that can be reused.<br>
+For example, Screen readers and search engines might be able to look through the code on the webpage<br>
+and get straight to the content of your website while being able to ignore the header or footer.<br>
+It's like a tl:dr for html.
+                      
+- ```<aside>```:<br>
+This element has one of two functions (depending on whether or not it is inside an article element), while inside an <br>
+article element ```<aside>``` contains information related to article but not that important. When the ```<aside>``` is used <br>
+out of an article it contains information related to the whole page.
+                      
+- ```<section>```:<br>
+As the name Suggests, ```<section>``` contains a group of elements within a part the webpage. These elements are all<br>
+related content.
+
+- ```<hgroups>```:<br>
+These just group together a set of h1-h6 elements to make one heading.
+                      
+- ```<figure>``` ```<figcaption>```:<br>
+```<figure>``` is used to reference any information that is in the main article. ```<figure>``` should have the <br>
+```<figurecaption>``` element providing a description of the ```<figure>``` element
+
+Older browsers need help identifying newer html elements, treating them as inline elements by default. to get around<br>
+this add pieces of code to your html and css code that alter how older browsers see those elements.<br>
+                      
+>For Html
+``` 
+  <!--[if lt IE 9]>
+<script src="http://html5shiv.googlecode.com/svn/
+  trunk/html5.js"></script>
+<![endif]--> 
+     
+```
+> For CSS
+```
+   header, section, footer, aside, nav, article, figure
+{
+display: block;}                  
+```      
+## <a name="html4">Proccess and Design</a>
+- Process and Design is all about thinking about how you want your webpage made, and recived; and better yet by whom. <br> 
+- If you think about why someone would even want to visit your website you can start design your website to maximize the vistors <br>
+of your page. 
+-If you are targeting a certain demographic then you cater to what kind of information they would be looking for.<br>
+
+Site maps:<br>
+Are used to map the overall layout of a webpage and as rough draft for how the site would group information; this determines which information.<br>
+should come before others. 
+
+![site map](https://d2slcw3kip6qmk.cloudfront.net/marketing/blogs/chart/how-to-make-a-site-map/site_map_example2-700x533.PNG)
+                      
+                      
+Wifeframe:<br>
+                      
+If sitemaps are used to indicate how information ranks then a wireframe determines where the information should go. it's like a rough draft<br>
+of the website.<br>
+![wireframe](https://cdn-images.visual-paradigm.com/handbooks/agile-handbook/wireframe/01-youtube-wireframe-example.png)
+                      
+ Designing Navigation:
+ - Concise
+ - Clear
+ - Selective
+                      
+                      
+                      
 ## <a name="js1">JS Introduction</a>
  asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF asdasdSDF
 ## <a name="js2">The ABC of Programming</a> 
