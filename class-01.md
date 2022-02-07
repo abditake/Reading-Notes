@@ -54,7 +54,7 @@ to users.<br>
 page you requested back to your<br>
 web browser.<br>
 
-_Html&CSS<pg.17>_
+_Html&CSS(pg.17)_
     
    - DNS servers host the ip Addresses that all devices request.
    - They tell your device the specific ip address that is connected with the website
@@ -327,7 +327,8 @@ this add pieces of code to your html and css code that alter how older browsers 
 
 
                       ```      
-_HTML&CSS<pg.449>_
+
+_HTML&CSS(pg.449)_
                       
 ## <a name="html4"></a>Process and Design
                       
@@ -391,7 +392,7 @@ Javascripts use events to run scripts on a webpage. These events are what I refe
              
              • A web page has finished loading 
             
-        JS<pg.10>     
+        Js(pg.10)     
      
 
 
@@ -467,7 +468,7 @@ How to use objects and methods:
                                                  V
                                                Method
    
-   Js<pg.55>                   
+   Js(pg.55)                   
   ```
                       
   Member operators: within the document there can be a lot of methods and properties. These are known as members of that object. to access members you put<br?
