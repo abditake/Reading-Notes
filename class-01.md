@@ -104,10 +104,7 @@ This diagram will help better understand the how these elements createstructure 
 The Code above is an example of the most basic webpage structure.at the top it starts off with a html element. An html element is basically
 telling the computer that anything in between this section is one whole html code;however if you look closely the html tag is surrounded by 
 to angle brackets Every element has an opening and closing tag.
-
-  ```  
-<br>
-
+  ```
 ```HTML&CSS(pg.28)```
 
 >Tags act like containers. They tell you something about the information that lies
@@ -414,9 +411,7 @@ To Successfully writing a script you need to have an end goal, then list out thi
 2. Design the script<br>
 3. Code each step<br>
 
-
- ``` Js(pg.22) ```
-
+```Js(pg.22)```
   
 People use flowcharts when drafting ideas for scripts. Flowcharts allow you categorize all the tasks needed to get the desired<br>
 end result.<br>
