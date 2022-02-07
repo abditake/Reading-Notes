@@ -329,7 +329,7 @@ display: block;}
 ```      
 <br>
                       
-## <a name="html4">Proccess and Design</a>
+##  <a name="html4">Proccess and Design</a>
 
                       
 - Process and Design is all about thinking about how you want your webpage made, and recived; and better yet by whom. <br> 
@@ -355,7 +355,7 @@ of the website.<br>
  - Clear: The user should never feel lost when viewing the webpage.
  - Selective: Your website shouldn't all its information on one page. Things like the login and contacts shouldn't clutter your main information<br>
                       
-                      
+<br>
                       
 ## <a name="js1">JS Introduction</a>
  
