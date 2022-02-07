@@ -54,7 +54,7 @@ to users.<br>
 page you requested back to your<br>
 web browser.<br>
 
-_Html&CSS(pg.17)_
+```Html&CSS(pg.17)```
     
    - DNS servers host the ip Addresses that all devices request.
    - They tell your device the specific ip address that is connected with the website
@@ -105,7 +105,8 @@ The Code above is an example of the most basic webpage structure.at the top it s
 telling the computer that anything in between this section is one whole html code;however if you look closely the html tag is surrounded by 
 to angle brackets Every element has an opening and closing tag.
   ```
-_HTML&CSS<pg.28>_
+```HTML&CSS(pg.28)```
+
 >Tags act like containers. They tell you something about the information that lies
 between their opening and closing tags.<br>
 
@@ -328,7 +329,7 @@ this add pieces of code to your html and css code that alter how older browsers 
 
                       ```      
 
-_HTML&CSS(pg.449)_
+```HTML&CSS(pg.449)```
                       
 ## <a name="html4"></a>Process and Design
                       
@@ -409,7 +410,8 @@ To Successfully writing a script you need to have an end goal, then list out thi
 1. Define the goal<br>
 2. Design the script<br>
 3. Code each step<br>
-_Js<pg.22>_
+
+```Js(pg.22)```
   
 People use flowcharts when drafting ideas for scripts. Flowcharts allow you categorize all the tasks needed to get the desired<br>
 end result.<br>
