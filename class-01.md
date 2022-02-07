@@ -352,9 +352,9 @@ display: block;}
                       ```      
 
 
-                      
+---                      
 ## <a name="html4">Proccess and Design</a>
-
+---
                       
 - Process and Design is all about thinking about how you want your webpage made, and recived; and better yet by whom. <br> 
 - If you think about why someone would even want to visit your website you can start design your website to maximize the vistors <br>
@@ -380,9 +380,9 @@ of the website.<br>
  - Selective: Your website shouldn't all its information on one page. Things like the login and contacts shouldn't clutter your main information<br>
                       
                       
-                      
+---                      
 ## <a name="js1">JS Introduction</a>
- 
+--- 
     
                       
     - What is the purpose of javascript?<br>
@@ -418,9 +418,9 @@ Javascripts use events to run scripts on a webpage. These events are what I refe
        
 
 
-                      
+ ---                     
  ## <a name="js2">The ABC of Programming</a> 
- 
+ ---
                       Scripts:<br>
 A collection of steps as a form of instructions(code) for a computer to follow.<br>
 Webpages can have multiple scripts on them but will only start running when the user interacts with them.<br>
