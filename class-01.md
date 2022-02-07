@@ -338,7 +338,7 @@ this add pieces of code to your html and css code that alter how older browsers 
 <br>
                       
 
- ##  <a name="html4"></a>Proccess and Design
+ ### <a name="html4"></a>Proccess and Design
 
                       
 - Process and Design is all about thinking about how you want your webpage made, and recived; and better yet by whom. <br> 
@@ -366,7 +366,7 @@ of the website.<br>
                       
 <br>
                       
-## <a name="js1"></a>JS Introduction
+### <a name="js1"></a>JS Introduction
  
     
                       
@@ -401,7 +401,7 @@ Javascripts use events to run scripts on a webpage. These events are what I refe
 
 
                       
- ## <a name="js2"></a>The ABC of Programming 
+ ### <a name="js2"></a>The ABC of Programming 
 
                       
 Scripts:<br>
