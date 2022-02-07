@@ -108,7 +108,7 @@ to angle brackets Every element has an opening and closing tag.
   ```  
 <br>
 
-```HTML&CSS(pg.28)```
+``` HTML&CSS(pg.28) ```
 
 >Tags act like containers. They tell you something about the information that lies
 between their opening and closing tags.<br>
