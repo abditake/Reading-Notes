@@ -1,23 +1,25 @@
 # Class 01: Introductory to html and javascript
 
-+ [Duckett HTML book: Introductions](#html0)<br>
++ [Duckett HTML book: Introductions](#html0)
  
-+ [Html Chapter 1: "structure"(pp.12-39)](#html1)<br>
++ [Html Chapter 1: "structure"(pp.12-39)](#html1)
  
-+ [HTML Chapter 8: “Extra Markup” (p.176-199)](#html2)<br>
++ [HTML Chapter 8: “Extra Markup” (p.176-199)](#html2)
  
-+ [HTML Chapter 17: “HTML5 Layout” (pp.428-451)](#html3)<br>
++ [HTML Chapter 17: “HTML5 Layout” (pp.428-451)](#html3)
  
-+ [HTML Chapter 18: “Process & Design” (pp.452-475)](#html4)<br>
++ [HTML Chapter 18: “Process & Design” (pp.452-475)](#html4)
 
-+ [Duckett Js Book: Introduction](#js1)<br>
++ [Duckett Js Book: Introduction](#js1)
 
-+ [JS Chapter 1: “The ABC of Programming” (pp.11-52)](#js2)<br>
++ [JS Chapter 1: “The ABC of Programming” (pp.11-52)](#js2)
 
-## <a name="html0"></a>Duckett HTML Introductions
----
- People Access the web through many different mediums.This can range from browsers, web servers, devices and screen readers.<br>
- Web Servers are computers that remain connected to the internet. They make sure they send webapges out to devices that request them.<br>
+
+## <a name="html0">Duckett HTML Introductions</a>
+ People Access the web through many different mediums.<br>
+ This can range from browsers, web servers, devices and screen readers.<br> 
+ Web Servers are computers that remain connected to the internet. They make <br>
+ sure they send webapges out to devices that request them.
  
  Screen Readers: <br>
  - *Programs that read out the contents of a computer screen to a user. <br>
@@ -53,32 +55,33 @@ to users.<br>
 >4.The web server then sends the<br>
 page you requested back to your<br>
 web browser.<br>
-
-
     
    - DNS servers host the ip Addresses that all devices request.
    - They tell your device the specific ip address that is connected with the website
    > DNS servers are like the bouncers of websites. They let you have access to the club or in this case the website you requested.         
 
-All websites use at their core HTMl and CSS it's just that larger Websites will use CMS systems(Content Managment Systems). Some examples would be like<br>
-to make use of more complex techologies on the web server. This is all to futher the user experience of the website.
+All websites use at their core HTMl and CSS it's just that larger Websites<br>
+will use CMS systems(Content Managment Systems). Some examples would be like<br>
+to make use of more complex techologies on the web server. This is all to futher<br>
+the user experience of the website.
  - HTMl is constantly coming out with new version with each<br> 
   versions an improvement on the last
 
 
-##  <a name="html1"></a>Structure
+##  <a name="html1">Structure</a>
 
-***Structure*** In HTML is created through the use of elements These are all the basic elements used on a webpage to create Structure
+***Structure*** In HTML is created through the use of elements<br>
+These are all the basic elements used on a webpage to create Structure
 - **html**
 - **Body**
 - **h1**
 - **h2**
 - **P**
 
-This diagram will help better understand the how these elements createstructure to a webpage.
+This diagram will help better understand the how these elements create<br>
+structure to a webpage.
 
-  ```
-<html>
+```<html>
       
     <body>
      
@@ -101,14 +104,19 @@ This diagram will help better understand the how these elements createstructure 
    
     </body>
 </html>
-The Code above is an example of the most basic webpage structure.at the top it starts off with a html element. An html element is basically
-telling the computer that anything in between this section is one whole html code;however if you look closely the html tag is surrounded by 
-to angle brackets Every element has an opening and closing tag.
 
->Tags act like containers. They tell you something about the information that lies
+The Code above is an example of the most basic webpage structure.
+at the top it starts off with a html element. An html element is basically
+telling the computer that anything in between this section is one whole html code;
+however if you look closely the html tag is surrounded by to angle brackets(<>).
+Every element has an opening and closing tag.
+```
+
+>Tags act like containers. They tell you<br>
+something about the information that lies<br>
 between their opening and closing tags.<br>
 
-  ```
+```
 <body>
 
 THE GOOD STUFF
@@ -119,34 +127,34 @@ THE GOOD STUFF
 The body tag make sure that any code in between the opening a closing tags
 show up inside the main window of the browser; basically without this tag you would 
 have blank pages. Its like an essay without any words.
-  ```
+```
 
-  ```
+```
 <h1>            <h2>
 
 
 This tag just Creates a main header for your webpage. Its the first thing that should 
 catch your eye on a page. 
 
-  ```
-  ```
+```
+```
 <p>             </p>
 
 This tag creates paragraphs on the page. This is useful when you have a lot of topics 
 to cover.
 
 
-  ```
+```
 
-  ```
+```
 
 <h2>            <h2>
 
 h2 tags create sub headings. this is used to further sections parts of a webpage.
 
-  ```
+```
 
-  ```
+```
 
 <title>           </title>
 
@@ -157,18 +165,18 @@ One thing to mention is that within these tags you can also have attributes. <br
 Attributes provide a little more information about what's inside a tag.<br>
 
 
-  ```
+```
 <  p          lang    =                "en-us"   >   Paragraph in English</p>
             |_______|                |_________|
                 |                         |
                 V                         V
             Attribute Name          Attribute Value
-  ```
+```
 
 Every Attribute must have a Name and Value. The Name is specifies what extra information<br>
 is being added to the element. The Value is the Information of the Attribute.
  
-## <a name="html2"></a>Extra Markup
+## <a name="html2">Extra Markup</a>
 
 We know that the internet is always changing and improving and with those<br>
 improvments there different version of code that people use. <br>
@@ -184,7 +192,7 @@ Doctypes tell the broswer which version of HTML your webpage is using.<br>
 the use of Doctypes is what allows certain webpages to render correctly.
 
 Syntax Run-Through:
-  ```
+```
 
 <!-- -->
 
@@ -193,16 +201,16 @@ to your code that will not be
 visible in the user's browser, you
 can add the text between these
 characters.
-  ```
+```
 
-  ```
+```
 <div>
 This element allows to group up
 a set of elements to one block level.
 
-  ```
+```
 
-  ```
+```
 <span>
 This is used for one of two things
 
@@ -210,7 +218,7 @@ This is used for one of two things
 the rest.
 2.Contain inline elements
 
-  ```
+```
 `<em> <em>`<br>
 `<strong> <strong>`<br>
 `<b> <b>`<br>
@@ -221,18 +229,18 @@ These are all examples of inline elements<br>
 `<strong>` tag make the text **bolded**<br>
  `<b>` does the samething <b>strong does<br>
   
-   ```
+  ```
 <Iframes>
 This lets you cut a certain amount of a webpage and put it direcrly
 into your webpage
-   ```
+```
 
-   ```
+```
 <meta>
  Meta tags are pieces of information you use to tell the search engines and 
  those viewing your site more about your page and the information it contains.
 
-   ```
+```
 The <meta> element also uses the http-equiv and content attributes in pairs.<br>
 In our example, you can see three instances of the httpequiv attribute. Each one has a<br>
 different purpose 
@@ -254,21 +262,21 @@ be specified in the format shown<br>
  
  
 
-## <a name="html3"></a>HTML5 Layout
+## <a name="html3">HTML5 Layout</a>
 
 In a traditional html layout authors used the ```<div>``` element to group together <br>
 related elements; html5 has changed so that new elements were added which replaced<br>
 all the uneccessary bulk behind using the ```<div>``` element. This in turn made the website<br>
 much easier to follow. 
  
-   ``` 
+``` 
  <div id="header">
         ^
         |
       This turned into  |
                         V
                      <header>
-   ```
+```
 Even now newer builds of html are updadted that add more funtionality and more control<br>
 to the user. Here are some examples of this
                     
@@ -304,31 +312,25 @@ These just group together a set of h1-h6 elements to make one heading.
 Older browsers need help identifying newer html elements, treating them as inline elements by default. to get around<br>
 this add pieces of code to your html and css code that alter how older browsers see those elements.<br>
                       
->For Html<br>
+>For Html
+``` 
+  <!--[if lt IE 9]>
+<script src="http://html5shiv.googlecode.com/svn/
+  trunk/html5.js"></script>
+<![endif]--> 
+     
 ```
-                           <!--[if lt IE 9]>
-                          <script src="http://html5shiv.googlecode.com/svn/
-                           trunk/html5.js"></script>
-                          <![endif]-->                               
+> For CSS
 ```
+   header, section, footer, aside, nav, article, figure
+{
+display: block;}                  
 
-                     
-> For CSS<br>
-
-
-                      ```
-  
-                      header, section, footer, aside, nav, article, figure
-
-                      {
-
-                      display: block;}                  
-
-
-                      ```      
-
+```      
+<br>
                       
-## <a name="html4"></a>Process and Design
+## <a name="html4">Proccess and Design</a>
+
                       
 - Process and Design is all about thinking about how you want your webpage made, and recived; and better yet by whom. <br> 
 - If you think about why someone would even want to visit your website you can start design your website to maximize the vistors <br>
@@ -353,10 +355,10 @@ of the website.<br>
  - Clear: The user should never feel lost when viewing the webpage.
  - Selective: Your website shouldn't all its information on one page. Things like the login and contacts shouldn't clutter your main information<br>
                       
-<br>
                       
-## <a name="js1"></a>JS Introduction
-
+                      
+## <a name="js1">JS Introduction</a>
+ 
     
                       
     - What is the purpose of javascript?<br>
@@ -379,36 +381,26 @@ while the user is viewing it.
                - Forms<br>
 *Both of these are a form of user input based scripts.*<br>
 Javascripts use events to run scripts on a webpage. These events are what I refered to as user inputs.<br>
-                         
+             ```                     
              • A link is clicked (or tapped) on
-             
              • A cursor hovers over an element
-             
              • Information is added to a form
-             
              • An interval of time has passed
-             
              • A web page has finished loading 
-            
-             
-     
+             ```
+             <br>
 
 
                       
-
+ ## <a name="js2">The ABC of Programming</a> 
  
-## <a name="js2"></a>The ABC of Programming 
-
-                      
-Scripts:<br>
+                      Scripts:<br>
 A collection of steps as a form of instructions(code) for a computer to follow.<br>
 Webpages can have multiple scripts on them but will only start running when the user interacts with them.<br>
 To Successfully writing a script you need to have an end goal, then list out things you need to do to get that result.<br>
 1. Define the goal<br>
 2. Design the script<br>
 3. Code each step<br>
-
-
   
 People use flowcharts when drafting ideas for scripts. Flowcharts allow you categorize all the tasks needed to get the desired<br>
 end result.<br>
@@ -467,7 +459,6 @@ How to use objects and methods:
                                                  V
                                                Method
    
-                   
   ```
                       
   Member operators: within the document there can be a lot of methods and properties. These are known as members of that object. to access members you put<br?
