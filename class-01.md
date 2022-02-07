@@ -115,7 +115,6 @@ Every element has an opening and closing tag.
 
 >Tags act like containers. They tell you<br>
 something about the information that lies<br>
-=======
 The Code above is an example of the most basic webpage structure.at the top it starts off with a html element. An html element is basically
 telling the computer that anything in between this section is one whole html code;however if you look closely the html tag is surrounded by 
 to angle brackets Every element has an opening and closing tag.
