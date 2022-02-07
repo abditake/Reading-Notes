@@ -54,7 +54,7 @@ to users.<br>
 page you requested back to your<br>
 web browser.<br>
 
-```Html&CSS(pg.17)```
+
     
    - DNS servers host the ip Addresses that all devices request.
    - They tell your device the specific ip address that is connected with the website
@@ -104,11 +104,6 @@ This diagram will help better understand the how these elements createstructure 
 The Code above is an example of the most basic webpage structure.at the top it starts off with a html element. An html element is basically
 telling the computer that anything in between this section is one whole html code;however if you look closely the html tag is surrounded by 
 to angle brackets Every element has an opening and closing tag.
-
-  ```  
-<br>
-
-``` HTML&CSS(pg.28) ```
 
 >Tags act like containers. They tell you something about the information that lies
 between their opening and closing tags.<br>
@@ -332,7 +327,6 @@ this add pieces of code to your html and css code that alter how older browsers 
 
                       ```      
 
-```HTML&CSS(pg.449)```
                       
 ## <a name="html4"></a>Process and Design
                       
@@ -396,7 +390,7 @@ Javascripts use events to run scripts on a webpage. These events are what I refe
              
              • A web page has finished loading 
             
-        Js(pg.10)     
+             
      
 
 
@@ -414,8 +408,6 @@ To Successfully writing a script you need to have an end goal, then list out thi
 2. Design the script<br>
 3. Code each step<br>
 
-
- ``` Js(pg.22) ```
 
   
 People use flowcharts when drafting ideas for scripts. Flowcharts allow you categorize all the tasks needed to get the desired<br>
@@ -475,7 +467,7 @@ How to use objects and methods:
                                                  V
                                                Method
    
-   Js(pg.55)                   
+                   
   ```
                       
   Member operators: within the document there can be a lot of methods and properties. These are known as members of that object. to access members you put<br?
