@@ -15,6 +15,7 @@
 + [JS Chapter 1: “The ABC of Programming” (pp.11-52)](#js2)<br>
 
 ## <a name="html0"></a>Duckett HTML Introductions
+---
  People Access the web through many different mediums.<br>
  This can range from browsers, web servers, devices and screen readers.<br> 
  Web Servers are computers that remain connected to the internet. They make <br>
@@ -337,8 +338,6 @@ this add pieces of code to your html and css code that alter how older browsers 
 <br>
                       
 
-## <a name="html4"></a>Proccess and Design
-
                       
 - Process and Design is all about thinking about how you want your webpage made, and recived; and better yet by whom. <br> 
 - If you think about why someone would even want to visit your website you can start design your website to maximize the vistors <br>
@@ -366,7 +365,7 @@ of the website.<br>
 <br>
                       
 ## <a name="js1"></a>JS Introduction
- 
+
     
                       
     - What is the purpose of javascript?<br>
@@ -405,6 +404,8 @@ Javascripts use events to run scripts on a webpage. These events are what I refe
 
 
                       
+
+ 
 ## <a name="js2"></a>The ABC of Programming 
 
                       
