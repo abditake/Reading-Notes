@@ -326,7 +326,11 @@ this add pieces of code to your html and css code that alter how older browsers 
 {
 display: block;}                  
 ```      
+
+                      
 ## <a name="html4">Proccess and Design</a>
+
+                      
 - Process and Design is all about thinking about how you want your webpage made, and recived; and better yet by whom. <br> 
 - If you think about why someone would even want to visit your website you can start design your website to maximize the vistors <br>
 of your page. 
@@ -353,7 +357,10 @@ of the website.<br>
                       
                       
 ## <a name="js1">JS Introduction</a>
- - What is the purpose of javascript?<br>
+ 
+    
+                      
+    - What is the purpose of javascript?<br>
     - What is javascript?<br>
 
 *Javascript is a coding language that is used to make webpages interactive.*                   
@@ -380,8 +387,12 @@ Javascripts use events to run scripts on a webpage. These events are what I refe
              • An interval of time has passed
              • A web page has finished loading 
 ```
-## <a name="js2">The ABC of Programming</a> 
- Scripts:<br>
+
+
+                      
+ ## <a name="js2">The ABC of Programming</a> 
+ 
+                      Scripts:<br>
 A collection of steps as a form of instructions(code) for a computer to follow.<br>
 Webpages can have multiple scripts on them but will only start running when the user interacts with them.<br>
 To Successfully writing a script you need to have an end goal, then list out things you need to do to get that result.<br>
