@@ -14,7 +14,6 @@
 
 + [JS Chapter 1: “The ABC of Programming” (pp.11-52)](#js2)<br>
 
-
 ## <a name="html0"></a>Duckett HTML Introductions
 ---
  People Access the web through many different mediums.<br>
@@ -70,7 +69,7 @@ the user experience of the website.
 
 
 ##  <a name="html1"></a>Structure
----
+
 ***Structure*** In HTML is created through the use of elements<br>
 These are all the basic elements used on a webpage to create Structure
 - **html**
@@ -179,7 +178,7 @@ Every Attribute must have a Name and Value. The Name is specifies what extra inf
 is being added to the element. The Value is the Information of the Attribute.
  
 ## <a name="html2"></a>Extra Markup
----
+
 We know that the internet is always changing and improving and with those<br>
 improvments there different version of code that people use. <br>
 
@@ -265,7 +264,7 @@ be specified in the format shown<br>
  
 
 ## <a name="html3"></a>HTML5 Layout
----
+
 In a traditional html layout authors used the ```<div>``` element to group together <br>
 related elements; html5 has changed so that new elements were added which replaced<br>
 all the uneccessary bulk behind using the ```<div>``` element. This in turn made the website<br>
@@ -339,8 +338,6 @@ this add pieces of code to your html and css code that alter how older browsers 
 <br>
                       
 
- ## <a name="html4"></a>Proccess and Design
----
                       
 - Process and Design is all about thinking about how you want your webpage made, and recived; and better yet by whom. <br> 
 - If you think about why someone would even want to visit your website you can start design your website to maximize the vistors <br>
@@ -368,7 +365,7 @@ of the website.<br>
 <br>
                       
 ## <a name="js1"></a>JS Introduction
- ---
+
     
                       
     - What is the purpose of javascript?<br>
@@ -407,8 +404,10 @@ Javascripts use events to run scripts on a webpage. These events are what I refe
 
 
                       
- ## <a name="js2"></a>The ABC of Programming 
----
+
+ 
+## <a name="js2"></a>The ABC of Programming 
+
                       
 Scripts:<br>
 A collection of steps as a form of instructions(code) for a computer to follow.<br>
