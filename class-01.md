@@ -325,6 +325,7 @@ this add pieces of code to your html and css code that alter how older browsers 
    header, section, footer, aside, nav, article, figure
 {
 display: block;}                  
+
 ```      
 
                       
