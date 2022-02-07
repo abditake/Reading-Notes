@@ -327,7 +327,7 @@ this add pieces of code to your html and css code that alter how older browsers 
 display: block;}                  
 
 ```      
-
+<br>
                       
 ## <a name="html4">Proccess and Design</a>
 
@@ -353,7 +353,7 @@ of the website.<br>
  Designing Navigation:
  - Concise: The user should be able to navigate your webpage quickyl and effciently.
  - Clear: The user should never feel lost when viewing the webpage.
- - Selective: Your website shouldn't all its information on one page. Things like the login and contacts shouldn't clutter your main information 
+ - Selective: Your website shouldn't all its information on one page. Things like the login and contacts shouldn't clutter your main information<br>
                       
                       
                       
@@ -381,13 +381,14 @@ while the user is viewing it.
                - Forms<br>
 *Both of these are a form of user input based scripts.*<br>
 Javascripts use events to run scripts on a webpage. These events are what I refered to as user inputs.<br>
-```                     
+             ```                     
              • A link is clicked (or tapped) on
              • A cursor hovers over an element
              • Information is added to a form
              • An interval of time has passed
              • A web page has finished loading 
-```
+             ```
+             <br>
 
 
                       
