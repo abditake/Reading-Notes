@@ -16,10 +16,8 @@
 
 ## <a name="html0"></a>Duckett HTML Introductions
 ---
- People Access the web through many different mediums.<br>
- This can range from browsers, web servers, devices and screen readers.<br> 
- Web Servers are computers that remain connected to the internet. They make <br>
- sure they send webapges out to devices that request them.
+ People Access the web through many different mediums.This can range from browsers, web servers, devices and screen readers.<br>
+ Web Servers are computers that remain connected to the internet. They make sure they send webapges out to devices that request them.<br>
  
  Screen Readers: <br>
  - *Programs that read out the contents of a computer screen to a user. <br>
@@ -55,31 +53,29 @@ to users.<br>
 >4.The web server then sends the<br>
 page you requested back to your<br>
 web browser.<br>
+
+_Html&CSS<pg.17>_
     
    - DNS servers host the ip Addresses that all devices request.
    - They tell your device the specific ip address that is connected with the website
    > DNS servers are like the bouncers of websites. They let you have access to the club or in this case the website you requested.         
 
-All websites use at their core HTMl and CSS it's just that larger Websites<br>
-will use CMS systems(Content Managment Systems). Some examples would be like<br>
-to make use of more complex techologies on the web server. This is all to futher<br>
-the user experience of the website.
+All websites use at their core HTMl and CSS it's just that larger Websites will use CMS systems(Content Managment Systems). Some examples would be like<br>
+to make use of more complex techologies on the web server. This is all to futher the user experience of the website.
  - HTMl is constantly coming out with new version with each<br> 
   versions an improvement on the last
 
 
 ##  <a name="html1"></a>Structure
 
-***Structure*** In HTML is created through the use of elements<br>
-These are all the basic elements used on a webpage to create Structure
+***Structure*** In HTML is created through the use of elements These are all the basic elements used on a webpage to create Structure
 - **html**
 - **Body**
 - **h1**
 - **h2**
 - **P**
 
-This diagram will help better understand the how these elements create<br>
-structure to a webpage.
+This diagram will help better understand the how these elements createstructure to a webpage.
 
   ```
 <html>
@@ -105,16 +101,12 @@ structure to a webpage.
    
     </body>
 </html>
-
-The Code above is an example of the most basic webpage structure.
-at the top it starts off with a html element. An html element is basically
-telling the computer that anything in between this section is one whole html code;
-however if you look closely the html tag is surrounded by to angle brackets(<>).
-Every element has an opening and closing tag.
+The Code above is an example of the most basic webpage structure.at the top it starts off with a html element. An html element is basically
+telling the computer that anything in between this section is one whole html code;however if you look closely the html tag is surrounded by 
+to angle brackets Every element has an opening and closing tag.
   ```
-
->Tags act like containers. They tell you<br>
-something about the information that lies<br>
+_HTML&CSS<pg.28>_
+>Tags act like containers. They tell you something about the information that lies
 between their opening and closing tags.<br>
 
   ```
@@ -335,7 +327,7 @@ this add pieces of code to your html and css code that alter how older browsers 
 
 
                       ```      
-<br>
+_HTML&CSS<pg.449>_
                       
 ## <a name="html4"></a>Process and Design
                       
@@ -399,7 +391,7 @@ Javascripts use events to run scripts on a webpage. These events are what I refe
              
              • A web page has finished loading 
             
-             
+        JS<pg.10>     
      
 
 
@@ -416,6 +408,7 @@ To Successfully writing a script you need to have an end goal, then list out thi
 1. Define the goal<br>
 2. Design the script<br>
 3. Code each step<br>
+_Js<pg.22>_
   
 People use flowcharts when drafting ideas for scripts. Flowcharts allow you categorize all the tasks needed to get the desired<br>
 end result.<br>
@@ -474,6 +467,7 @@ How to use objects and methods:
                                                  V
                                                Method
    
+   Js<pg.55>                   
   ```
                       
   Member operators: within the document there can be a lot of methods and properties. These are known as members of that object. to access members you put<br?
