@@ -81,7 +81,8 @@ These are all the basic elements used on a webpage to create Structure
 This diagram will help better understand the how these elements create<br>
 structure to a webpage.
 
-```<html>
+  ```
+<html>
       
     <body>
      
@@ -110,13 +111,13 @@ at the top it starts off with a html element. An html element is basically
 telling the computer that anything in between this section is one whole html code;
 however if you look closely the html tag is surrounded by to angle brackets(<>).
 Every element has an opening and closing tag.
-```
+  ```
 
 >Tags act like containers. They tell you<br>
 something about the information that lies<br>
 between their opening and closing tags.<br>
 
-```
+  ```
 <body>
 
 THE GOOD STUFF
@@ -127,34 +128,34 @@ THE GOOD STUFF
 The body tag make sure that any code in between the opening a closing tags
 show up inside the main window of the browser; basically without this tag you would 
 have blank pages. Its like an essay without any words.
-```
+  ```
 
-```
+  ```
 <h1>            <h2>
 
 
 This tag just Creates a main header for your webpage. Its the first thing that should 
 catch your eye on a page. 
 
-```
-```
+  ```
+  ```
 <p>             </p>
 
 This tag creates paragraphs on the page. This is useful when you have a lot of topics 
 to cover.
 
 
-```
+  ```
 
-```
+  ```
 
 <h2>            <h2>
 
 h2 tags create sub headings. this is used to further sections parts of a webpage.
 
-```
+  ```
 
-```
+  ```
 
 <title>           </title>
 
@@ -165,13 +166,13 @@ One thing to mention is that within these tags you can also have attributes. <br
 Attributes provide a little more information about what's inside a tag.<br>
 
 
-```
+  ```
 <  p          lang    =                "en-us"   >   Paragraph in English</p>
             |_______|                |_________|
                 |                         |
                 V                         V
             Attribute Name          Attribute Value
-```
+  ```
 
 Every Attribute must have a Name and Value. The Name is specifies what extra information<br>
 is being added to the element. The Value is the Information of the Attribute.
@@ -192,7 +193,7 @@ Doctypes tell the broswer which version of HTML your webpage is using.<br>
 the use of Doctypes is what allows certain webpages to render correctly.
 
 Syntax Run-Through:
-```
+  ```
 
 <!-- -->
 
@@ -201,16 +202,16 @@ to your code that will not be
 visible in the user's browser, you
 can add the text between these
 characters.
-```
+  ```
 
-```
+  ```
 <div>
 This element allows to group up
 a set of elements to one block level.
 
-```
+  ```
 
-```
+  ```
 <span>
 This is used for one of two things
 
@@ -218,7 +219,7 @@ This is used for one of two things
 the rest.
 2.Contain inline elements
 
-```
+  ```
 `<em> <em>`<br>
 `<strong> <strong>`<br>
 `<b> <b>`<br>
@@ -229,18 +230,18 @@ These are all examples of inline elements<br>
 `<strong>` tag make the text **bolded**<br>
  `<b>` does the samething <b>strong does<br>
   
-  ```
+   ```
 <Iframes>
 This lets you cut a certain amount of a webpage and put it direcrly
 into your webpage
-```
+   ```
 
-```
+   ```
 <meta>
  Meta tags are pieces of information you use to tell the search engines and 
  those viewing your site more about your page and the information it contains.
 
-```
+   ```
 The <meta> element also uses the http-equiv and content attributes in pairs.<br>
 In our example, you can see three instances of the httpequiv attribute. Each one has a<br>
 different purpose 
@@ -269,14 +270,14 @@ related elements; html5 has changed so that new elements were added which replac
 all the uneccessary bulk behind using the ```<div>``` element. This in turn made the website<br>
 much easier to follow. 
  
-``` 
+   ``` 
  <div id="header">
         ^
         |
       This turned into  |
                         V
                      <header>
-```
+   ```
 Even now newer builds of html are updadted that add more funtionality and more control<br>
 to the user. Here are some examples of this
                     
@@ -312,24 +313,32 @@ These just group together a set of h1-h6 elements to make one heading.
 Older browsers need help identifying newer html elements, treating them as inline elements by default. to get around<br>
 this add pieces of code to your html and css code that alter how older browsers see those elements.<br>
                       
->For Html
-``` 
-  <!--[if lt IE 9]>
-<script src="http://html5shiv.googlecode.com/svn/
-  trunk/html5.js"></script>
-<![endif]--> 
-     
+>For Html<br>
 ```
-> For CSS
+                           <!--[if lt IE 9]>
+                          <script src="http://html5shiv.googlecode.com/svn/
+                           trunk/html5.js"></script>
+                          <![endif]-->                               
 ```
-   header, section, footer, aside, nav, article, figure
-{
-display: block;}                  
 
-```      
+                     
+> For CSS<br>
+
+
+                      ```
+  
+                      header, section, footer, aside, nav, article, figure
+
+                      {
+
+                      display: block;}                  
+
+
+                      ```      
 <br>
                       
-##  <a name="html4"></a>Proccess and Design
+
+ ##  <a name="html4"></a>Proccess and Design
 
                       
 - Process and Design is all about thinking about how you want your webpage made, and recived; and better yet by whom. <br> 
@@ -388,13 +397,14 @@ Javascripts use events to run scripts on a webpage. These events are what I refe
              • An interval of time has passed
              • A web page has finished loading 
              ```
-             <br>
+     
 
 
                       
  ## <a name="js2"></a>The ABC of Programming 
- 
-                      Scripts:<br>
+
+                      
+Scripts:<br>
 A collection of steps as a form of instructions(code) for a computer to follow.<br>
 Webpages can have multiple scripts on them but will only start running when the user interacts with them.<br>
 To Successfully writing a script you need to have an end goal, then list out things you need to do to get that result.<br>
