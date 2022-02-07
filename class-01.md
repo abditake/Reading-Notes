@@ -105,6 +105,7 @@ structure to a webpage.
     </body>
 </html>
 
+
 The Code above is an example of the most basic webpage structure.
 at the top it starts off with a html element. An html element is basically
 telling the computer that anything in between this section is one whole html code;
@@ -114,6 +115,12 @@ Every element has an opening and closing tag.
 
 >Tags act like containers. They tell you<br>
 something about the information that lies<br>
+=======
+The Code above is an example of the most basic webpage structure.at the top it starts off with a html element. An html element is basically
+telling the computer that anything in between this section is one whole html code;however if you look closely the html tag is surrounded by 
+to angle brackets Every element has an opening and closing tag.
+
+>Tags act like containers. They tell you something about the information that lies
 between their opening and closing tags.<br>
 
 ```
@@ -326,8 +333,26 @@ this add pieces of code to your html and css code that alter how older browsers 
 {
 display: block;}                  
 
+
 ```      
 <br>
+
+                     
+> For CSS<br>
+
+
+                      ```
+  
+                      header, section, footer, aside, nav, article, figure
+
+                      {
+
+                      display: block;}                  
+
+
+                      ```      
+
+
                       
 ## <a name="html4">Proccess and Design</a>
 
@@ -387,8 +412,11 @@ Javascripts use events to run scripts on a webpage. These events are what I refe
              • Information is added to a form
              • An interval of time has passed
              • A web page has finished loading 
+
              ```
              <br>
+
+       
 
 
                       
@@ -401,6 +429,7 @@ To Successfully writing a script you need to have an end goal, then list out thi
 1. Define the goal<br>
 2. Design the script<br>
 3. Code each step<br>
+
   
 People use flowcharts when drafting ideas for scripts. Flowcharts allow you categorize all the tasks needed to get the desired<br>
 end result.<br>
@@ -459,6 +488,7 @@ How to use objects and methods:
                                                  V
                                                Method
    
+
   ```
                       
   Member operators: within the document there can be a lot of methods and properties. These are known as members of that object. to access members you put<br?
