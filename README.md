@@ -9,7 +9,7 @@
 ## Code 201 Reading notes
 
 ### [201-Notes-01](Code-201/class-01.md)
-### 201-Notes-02- locked
+### [201-Notes-02](Code-201/Class-02.md)
 ### 201-Notes-03- locked
 ### 201-Notes-04- locked
 ### 201-Notes-05- locked
