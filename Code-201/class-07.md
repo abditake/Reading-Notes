@@ -1,7 +1,6 @@
-# Class 06: - JS Object Literals; The DOM
+# [Class 07: - HTML Tables; JS Constructor Functions](/README.md)
 
-- ## Understanding the problem domain is the hardest part of programming
-- ## What’s the difference between primitive values and object references in JavaScript?
-- ## Chapter 3: “Object Literals” (pp.100-105)
-- ## Chapter 5: “Document Object Model” (pp.183-242)
+- ## Domain Modeling
+- ## Chapter 6: “Tables” (pp.126-145)
+- ## Chapter 3: “Functions, Methods, and Objects” (pp.106-144)
 <hr>

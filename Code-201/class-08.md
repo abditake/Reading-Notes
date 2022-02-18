@@ -1,4 +1,4 @@
-# Class 08: - CSS Layout
+# [Class 08: - CSS Layout](/README.md)
 
 - ## Learn CSS-Layout
 - ## Duckett HTML/CSS book: Ch. 15, “Layout” (again; repeat of Class 4 reading)

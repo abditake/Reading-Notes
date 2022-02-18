@@ -1,4 +1,4 @@
-# Class 05: HTML Images; CSS Color & Text
+# [Class 05: HTML Images; CSS Color & Text](/README.md)
 
 - ## [Chapter 5: “Images” (pp.94-125)](#html1)
 - ## [Chapter 11: “Color” (pp.246-263)](#html2)

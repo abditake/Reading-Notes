@@ -1,4 +1,4 @@
-# Class 09: - Forms and JS Events
+# [Class 09: - Forms and JS Events](/README.md)
 
 - ## Chapter 7: “Forms” (p.144-175)
 - ## Chapter 14: “Lists, Tables & Forms” (pp.330-357)
