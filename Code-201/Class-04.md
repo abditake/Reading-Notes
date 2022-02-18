@@ -1,4 +1,4 @@
-# Read: 04 - HTML Links, CSS Layout, JS Functions
+# [Read: 04 - HTML Links, CSS Layout, JS Functions](/README.md)
 
 - ## [Chapter 4: Ch.4 “Links” (pp.74-93)](#html1)
 - ## Chapter 15: “Layout” (pp.358-404)

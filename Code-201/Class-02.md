@@ -1,4 +1,4 @@
-# Class 02: HTML Text, CSS Introduction, and Basic JavaScript Instructions
+# [Class 02: HTML Text, CSS Introduction, and Basic JavaScript Instructions](/README.md)
 
 - ## [Chapter 2: “Text” (pp.40-61)](#html1)
 - ## [Chapter 10: Ch.10 “Introducing CSS” (pp.226-245)](#html2)

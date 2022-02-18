@@ -1,4 +1,4 @@
-# Class 06: - JS Object Literals; The DOM
+# [Class 06: - JS Object Literals; The DOM](/README.md)
 
 - ## Understanding the problem domain is the hardest part of programming
 - ## What’s the difference between primitive values and object references in JavaScript?

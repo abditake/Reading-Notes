@@ -1,4 +1,4 @@
-# Class 03: HTML Text, CSS Introduction, and Basic JavaScript Instructions
+# [Class 03: HTML Text, CSS Introduction, and Basic JavaScript Instructions](/README.md)
 
 - ## [Chapter 3: “Lists” (pp.62-73)](#html1)
 - ## [Chapter 13: “Boxes” (pp.300-329)](#html2)
