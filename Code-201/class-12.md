@@ -51,5 +51,3 @@ strokeText(text, x, y [, maxWidth])
 Strokes a given text at the given (x,y) position. Optionally with a maximum width to draw.
 
 ```
-
-gi
