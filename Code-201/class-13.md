@@ -17,8 +17,12 @@
     - unlike cookies the data isn't transmitted to a remote server
 
 ```
-However, the data is actually stored as a string. If you are storing and retrieving anything other than strings, you will need to use functions like parseInt() or parseFloat() to coerce your retrieved data into the expected JavaScript datatype.
-(local Storage)
+However, the data is actually stored as a string. If you are storing and 
+retrieving anything other than strings, you will need to use functions like 
+parseInt() or parseFloat() to coerce your retrieved data into the expected 
+JavaScript datatype.(local Storage)
+
+
 ```
 
 - ## `setitem*()`: calling with a key that has a value pair rewrites the value of the named key that already exists. 
