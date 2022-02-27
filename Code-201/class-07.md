@@ -33,11 +33,7 @@ Domain modeling is all about conceptualizing the problem. In the model there sho
 # Functions, Methods, and Objects
 
 - ## `Browser Object Model`: contains obejects that represent current window or tab
-
 - ## `Global Javascript Objects`: the global JS objects represents what JS language needs to create a model.
-
 - ## `Document Object Modeling(DOM)`: uses objects to create a representation of current page.
-
 - ## `object model`: group of objects that are related to things from the real world through which a program can examine and manipulate some parts of it.
-
 - ## `index`: the system in which an array is stored. Every array has an index that starts from 0. 
