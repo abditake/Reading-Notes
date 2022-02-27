@@ -1,12 +1,6 @@
 # [Class: 14b - What Google Learned From Its Quest to Build the Perfect Team](/README.md)
 
 - ## What Google Learned From Its Quest to Build the Perfect Team
-
-<hr>
-
- ## What Google Learned From Its Quest to Build the Perfect Team.
-<hr>
-
 # First Group
  - ## `Problem`:
 
