@@ -18,11 +18,12 @@
 ### [201-Notes-08](Code-201/class-08.md)
 ### [201-Notes-09](Code-201/class-09.md)
 ### [201-Notes-10](Code-201/class-10.md)
-### 201-Notes-11- locked
-### 201-Notes-12- locked
-### 201-Notes-13- locked
-### 201-Notes-14- locked
-### 201-Notes-15- locked
+### [201-Notes-11](Code-201/class-11.md)
+### [201-Notes-12](Code-201/class-12.md)
+### [201-Notes-13](Code-201/class-13.md)
+### [201-Notes-14a](Code-201/class-14a.md)
+### [201-Notes-14b](Code-201/class-14b.md)
+
 
 
 
