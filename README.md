@@ -10,7 +10,7 @@
 <details open>
   <summary>Expand jutsu</summary>
 
-<a href="Code-201/class-01.md">201-Notes-01</a>
+<a href="../Code-201/class-01.md">201-Notes-01</a>
 
 [201-Notes-02](Code-201/Class-02.md)
 
