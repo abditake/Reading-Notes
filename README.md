@@ -8,15 +8,9 @@
 
 # Code-201 Notes
 <details open>
-  <summary>
+  <summary>Expand jutsu</summary>
 
-  Expand jutsu
-  
-  </summary>
-
-
-
-[201-Notes-01](Code-201/class-01.md)
+<a href="Code-201/class-01.md">201-Notes-01</a>
 
 [201-Notes-02](Code-201/Class-02.md)
 
