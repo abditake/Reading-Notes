@@ -10,6 +10,7 @@
 <details>
   <summary>Expand jutsu</summary>
 
+
 ### [201-Notes-01](Code-201/class-01.md)
 
 ### [201-Notes-02](Code-201/Class-02.md)
@@ -46,6 +47,8 @@
 
 <details>
   <summary>Expand Jutsu</summary>
+
+
 
 ### [301-Notes-01](Code-201/class-01.md)
 ### 301-Notes-02 - locked
