@@ -7,12 +7,10 @@
 
 
 # Code-201 Notes
-<details open>
-  <summary>Expand jutsu</summary>
 
-<a href="../Code-201/class-01.md">201-Notes-01</a>
+### [201-Notes-01](Code-201/class-01.md)
 
-[201-Notes-02](Code-201/Class-02.md)
+### [201-Notes-02](Code-201/Class-02.md)
 
 ### [201-Notes-03](Code-201/Class-03.md)
 
@@ -40,16 +38,9 @@
 
 ### [201-Notes-14b](Code-201/class-14b.md)
 
-</details>
-
 # Code-301 Notes
 
-<details>
-  <summary>Expand Jutsu</summary>
-
-
-
-### [301-Notes-01](Code-201/class-01.md)
+### [301-Notes-01](Code-301/class-01.md)
 ### 301-Notes-02 - locked
 ### 301-Notes-03 - locked
 ### 301-Notes-04 - locked
@@ -65,10 +56,6 @@
 ### 301-Notes-14 - locked
 ### 301-Notes-15 - locked
 
-
-
-
-</details>
 
 
 
