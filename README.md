@@ -7,40 +7,47 @@
 
 
 # Code-201 Notes
+<details open>
+<summary> Expand jutsu </summary>
 
-### [201-Notes-01](Code-201/class-01.md)
+### <a href="https://abditake.github.io/Reading-Notes/Code-201/class-01.html">201-Notes-01</a>
 
-### [201-Notes-02](Code-201/Class-02.md)
+### <a href="https://abditake.github.io/Reading-Notes/Code-201/Class-02.html">201-Notes-02</a>
 
-### [201-Notes-03](Code-201/Class-03.md)
+### <a href="https://abditake.github.io/Reading-Notes/Code-201/Class-03.html">201-Notes-03</a>
 
-### [201-Notes-04](Code-201/Class-04.md)
+### <a href="https://abditake.github.io/Reading-Notes/Code-201/Class-04.html">201-Notes-04</a>
 
-### [201-Notes-05](Code-201/Class-05.md)
+### <a href="https://abditake.github.io/Reading-Notes/Code-201/Class-05.html">201-Notes-05</a>
 
-### [201-Notes-06](Code-201/Class-06.md)
+### <a href="https://abditake.github.io/Reading-Notes/Code-201/Class-06.html">201-Notes-06</a>
 
-### [201-Notes-07](Code-201/class-07.md)
+### <a href="https://abditake.github.io/Reading-Notes/Code-201/class-07.html">201-Notes-07</a>
 
-### [201-Notes-08](Code-201/class-08.md)
+### <a href="https://abditake.github.io/Reading-Notes/Code-201/class-08.html">201-Notes-08</a>
 
-### [201-Notes-09](Code-201/class-09.md)
+### <a href="https://abditake.github.io/Reading-Notes/Code-201/class-09.html">201-Notes-09</a>
 
-### [201-Notes-10](Code-201/class-10.md)
+### <a href="https://abditake.github.io/Reading-Notes/Code-201/class-10.html">201-Notes-10</a>
 
-### [201-Notes-11](Code-201/class-11.md)
+### <a href="https://abditake.github.io/Reading-Notes/Code-201/class-11.html">201-Notes-11</a>
 
-### [201-Notes-12](Code-201/class-12.md)
+### <a href="https://abditake.github.io/Reading-Notes/Code-201/class-12.html">201-Notes-12</a>
 
-### [201-Notes-13](Code-201/class-13.md)
+### <a href="https://abditake.github.io/Reading-Notes/Code-201/class-13.html">201-Notes-13</a>
 
-### [201-Notes-14a](Code-201/class-14a.md)
+### <a href="https://abditake.github.io/Reading-Notes/Code-201/class-14a.html">201-Notes-14a</a>
 
-### [201-Notes-14b](Code-201/class-14b.md)
+### <a href="https://abditake.github.io/Reading-Notes/Code-201/class-14b.html">201-Notes-14b</a>
+
+</details>
 
 # Code-301 Notes
 
-### [301-Notes-01](Code-301/class-01.md)
+<details>
+  <summary>Expand Jutsu</summary>
+
+### <a href="https://abditake.github.io/Reading-Notes/Code-301/class-01.html">201-Notes-01</a>
 ### 301-Notes-02 - locked
 ### 301-Notes-03 - locked
 ### 301-Notes-04 - locked
@@ -56,6 +63,10 @@
 ### 301-Notes-14 - locked
 ### 301-Notes-15 - locked
 
+
+
+
+</details>
 
 
 
