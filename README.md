@@ -7,11 +7,9 @@
 
 
 # Code-201 Notes
-<details>
+<details open>
   <summary>
-  
   Expand jutsu
-  
   </summary>
 
 
