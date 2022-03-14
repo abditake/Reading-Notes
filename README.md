@@ -13,7 +13,7 @@ Expand jutsu
 <img src="https://media2.giphy.com/media/rrTXn4zEMp008/giphy.gif?cid=ecf05e475s7ltj4373j7trkzedm6zy1tzy37764gdknt8bcc&rid=giphy.gif&ct=g" width="30" height= "20">
 </summary>
 
- <a href="https://abditake.github.io/Reading-Notes/Code-201/class-01.html">201-Notes-01</a>
+ <a href="https://abditake.github.io/Reading-Notes/Code-301/class-01.html">301-Notes-01</a>
 <br>
  <a href="https://abditake.github.io/Reading-Notes/Code-201/Class-02.html">201-Notes-02</a>
 <br>
