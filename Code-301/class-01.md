@@ -8,6 +8,7 @@
 
 - ## what is a Component?
    - A component piece of code that fills in a certain part of the user interface.
+
 ```
 A component is a software object, intended to interact with other components, 
 encapsulating certain functionality or a set of functionalities. It has an obviously 
