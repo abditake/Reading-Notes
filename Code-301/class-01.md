@@ -55,7 +55,8 @@ defined interface and conforms to a recommended behavior common to all component
 
     ```  
 
- ## Things I want to know more about
+ 
+## Things I want to know more about
     - How do components interact while on different pages that need to interact with 
     each other. Does passing data from one component to the other get tricky when dealing with login and stuff?
 
