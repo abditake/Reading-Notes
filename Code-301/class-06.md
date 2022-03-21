@@ -1,4 +1,4 @@
-# [Class 05: React and Forms](/README.md)
+# [Class 06: Node.Js](/README.md)
 
 - ## An Introduction to Node.js on sitepoint.com
 - ## 6 Reasons for Pair Programming
