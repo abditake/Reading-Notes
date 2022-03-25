@@ -57,6 +57,7 @@
 - ## What is a ‘type error’?
             - when the type of data you are using is incompatible with how you are accessing it. 
 - ## What is a breakpoint?
+            - breakpoint is a certain place in a code where you will stop executing code.
 
 - ## What does the word ‘debugger’ do in your code?
             - when your code hits a certain code block that isn't work it breaks you out of your code.
