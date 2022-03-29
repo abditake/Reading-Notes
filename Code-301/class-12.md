@@ -1,4 +1,4 @@
-# [Class 10: Understanding the JavaScript Call Stack](/README.md)
+# [Class 12: Understanding the JavaScript Call Stack](/README.md)
 
 - ## Status Codes Based On REST Methods
 - ## Build A REST API With Node.js, Express, & MongoDB - Quick 
