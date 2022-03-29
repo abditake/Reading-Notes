@@ -1,4 +1,4 @@
-# [Class 10: Understanding the JavaScript Call Stack](/README.md)
+# [Class 11: Understanding the JavaScript Call Stack](/README.md)
 
 - ## nosql vs sql
 - ## sql vs nosql 
