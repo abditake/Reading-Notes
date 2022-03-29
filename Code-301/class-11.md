@@ -12,7 +12,8 @@
 | sqL      | nosql |
 | ----------- | ----------- |
 | Table Based database     | Document, key-value. graph based database       |
-|    | h    |
+|    | hierarchical data storage     |
+|                                    |
 
 - ## Fill in the chart below with five differences between SQL and NoSQL databases:
 
