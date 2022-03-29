@@ -48,7 +48,10 @@
       - put updates all the information of the route all at once instead of just the information that gets passed
 
 - ## How do you make a default value in a schema?
-      - 
+      - by passing default as one of the keys 
 - ## What does a `500 `error status code mean?
+      - something is wrong on the server-side
 
 - ## What is the difference between a status `200` and a status `201`?
+      - 200: generic success message
+      - 201: something was created successfully 
