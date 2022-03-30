@@ -23,6 +23,9 @@
       - REST uses Http protocols to allow the user to Create, Read, Update, Delete.
 
 - ## If you had to describe the process of creating a RESTful API in 5 steps, what would they be?
-      - setup simple server with routes
-      - add get,post,delete,put to your routes
+      - setup basic server with express
+      - create your router/
+      - mount the router and add CRUD get/put/delete routes
+      - create a schema 
+      - now you should be able to add, remove, and get data from api. 
       
