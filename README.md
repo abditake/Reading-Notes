@@ -54,33 +54,33 @@ Expand jutsu
 
  <a href="https://abditake.github.io/Reading-Notes/Code-301/class-01.html">201-Notes-01</a>
 <br>
-<a href="https://abditake.github.io/Reading-Notes/Code-301/class-14b.html">301-Notes-02</a>
+<a href="https://abditake.github.io/Reading-Notes/Code-301/class-02.html">301-Notes-02</a>
 <br>
-<a href="https://abditake.github.io/Reading-Notes/Code-301/class-14b.html">301-Notes-03</a>
+<a href="https://abditake.github.io/Reading-Notes/Code-301/class-03.html">301-Notes-03</a>
 <br>
-<a href="https://abditake.github.io/Reading-Notes/Code-301/class-14b.html">301-Notes-04</a>
+<a href="https://abditake.github.io/Reading-Notes/Code-301/class-04.html">301-Notes-04</a>
 <br>
-<a href="https://abditake.github.io/Reading-Notes/Code-301/class-14b.html">301-Notes-05</a>
+<a href="https://abditake.github.io/Reading-Notes/Code-301/class-05.html">301-Notes-05</a>
 <br>
-<a href="https://abditake.github.io/Reading-Notes/Code-301/class-14b.html">301-Notes-06</a>
+<a href="https://abditake.github.io/Reading-Notes/Code-301/class-06.html">301-Notes-06</a>
 <br>
-<a href="https://abditake.github.io/Reading-Notes/Code-301/class-14b.html">301-Notes-07</a>
+<a href="https://abditake.github.io/Reading-Notes/Code-301/class-07.html">301-Notes-07</a>
 <br>
-<a href="https://abditake.github.io/Reading-Notes/Code-301/class-14b.html">301-Notes-08</a>
+<a href="https://abditake.github.io/Reading-Notes/Code-301/class-08.html">301-Notes-08</a>
 <br>
-<a href="https://abditake.github.io/Reading-Notes/Code-301/class-14b.html">301-Notes-09</a>
+<a href="https://abditake.github.io/Reading-Notes/Code-301/class-09.html">301-Notes-09</a>
 <br>
-<a href="https://abditake.github.io/Reading-Notes/Code-301/class-14b.html">301-Notes-10</a>
+<a href="https://abditake.github.io/Reading-Notes/Code-301/class-10.html">301-Notes-10</a>
 <br>
-<a href="https://abditake.github.io/Reading-Notes/Code-301/class-14b.html">301-Notes-11</a>
+<a href="https://abditake.github.io/Reading-Notes/Code-301/class-11.html">301-Notes-11</a>
 <br>
-<a href="https://abditake.github.io/Reading-Notes/Code-301/class-14b.html">301-Notes-12</a>
+<a href="https://abditake.github.io/Reading-Notes/Code-301/class-12.html">301-Notes-12</a>
 <br>
-<a href="https://abditake.github.io/Reading-Notes/Code-301/class-14b.html">301-Notes-13</a>
+<a href="https://abditake.github.io/Reading-Notes/Code-301/class-13.html">301-Notes-13</a>
 <br>
-<a href="https://abditake.github.io/Reading-Notes/Code-301/class-14b.html">301-Notes-14</a>
+<a href="https://abditake.github.io/Reading-Notes/Code-301/class-14.html">301-Notes-14</a>
 <br>
-<a href="https://abditake.github.io/Reading-Notes/Code-301/class-14b.html">301-Notes-15</a> 
+<a href="https://abditake.github.io/Reading-Notes/Code-301/class-15.html">301-Notes-15</a> 
 </details>
 
 
