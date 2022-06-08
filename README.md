@@ -54,34 +54,33 @@ Expand jutsu
 
  <a href="https://abditake.github.io/Reading-Notes/Code-301/class-01.html">201-Notes-01</a>
 <br>
-301-Notes-02 - locked
+<a href="https://abditake.github.io/Reading-Notes/Code-301/class-14b.html">301-Notes-02</a>
 <br>
-301-Notes-03 - locked
+<a href="https://abditake.github.io/Reading-Notes/Code-301/class-14b.html">301-Notes-03</a>
 <br>
-301-Notes-04 - locked
+<a href="https://abditake.github.io/Reading-Notes/Code-301/class-14b.html">301-Notes-04</a>
 <br>
-301-Notes-05 - locked
+<a href="https://abditake.github.io/Reading-Notes/Code-301/class-14b.html">301-Notes-05</a>
 <br>
-301-Notes-06 - locked
+<a href="https://abditake.github.io/Reading-Notes/Code-301/class-14b.html">301-Notes-06</a>
 <br>
-301-Notes-07 - locked
+<a href="https://abditake.github.io/Reading-Notes/Code-301/class-14b.html">301-Notes-07</a>
 <br>
-301-Notes-08 - locked
+<a href="https://abditake.github.io/Reading-Notes/Code-301/class-14b.html">301-Notes-08</a>
 <br>
-301-Notes-09 - locked
+<a href="https://abditake.github.io/Reading-Notes/Code-301/class-14b.html">301-Notes-09</a>
 <br>
-301-Notes-10 - locked
+<a href="https://abditake.github.io/Reading-Notes/Code-301/class-14b.html">301-Notes-10</a>
 <br>
-301-Notes-11 - locked
+<a href="https://abditake.github.io/Reading-Notes/Code-301/class-14b.html">301-Notes-11</a>
 <br>
-301-Notes-12 - locked
+<a href="https://abditake.github.io/Reading-Notes/Code-301/class-14b.html">301-Notes-12</a>
 <br>
-301-Notes-13 - locked
+<a href="https://abditake.github.io/Reading-Notes/Code-301/class-14b.html">301-Notes-13</a>
 <br>
-301-Notes-14 - locked
+<a href="https://abditake.github.io/Reading-Notes/Code-301/class-14b.html">301-Notes-14</a>
 <br>
-301-Notes-15 - locked
-
+<a href="https://abditake.github.io/Reading-Notes/Code-301/class-14b.html">301-Notes-15</a> 
 </details>
 
 
