@@ -5,8 +5,9 @@
 > *The only place where studying comes before work is in the dictionary*
 > ***-Vidal Sasson***
 
+<hr>
 
-# Code-301 Notes
+# Code-201 Notes
 <details open>
 <summary> 
 Expand jutsu  
@@ -44,6 +45,7 @@ Expand jutsu
  <a href="https://abditake.github.io/Reading-Notes/Code-201/class-14b.html">201-Notes-14b</a>
 
 </details>
+<hr>
 
 # Code-301 Notes
 
@@ -83,8 +85,17 @@ Expand jutsu
 <a href="https://abditake.github.io/Reading-Notes/Code-301/class-15.html">301-Notes-15</a> 
 </details>
 
+<hr>
 
+# Code-401 Notes
 
+<details>
+  <summary>Expand Jutsu
+  <img src="https://media2.giphy.com/media/Mscw2tH9hcAne/giphy.gif?cid=ecf05e47ibahwsg8e2uk0fz4m5vc3sjyf80n9lr0lp43p2ew&rid=giphy.gif&ct=g" width="30" height="20">
+  </summary>
+
+ <a href="https://abditake.github.io/Reading-Notes/Code-401/class-01.html">401-Notes-01</a>
+<br>
 
 
 
