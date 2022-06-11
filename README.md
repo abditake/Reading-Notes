@@ -6,7 +6,7 @@
 > ***-Vidal Sasson***
 
 # Code-201 Notes
-<details open>
+<details >
 <summary> 
 Expand jutsu  
 <img src="https://media2.giphy.com/media/rrTXn4zEMp008/giphy.gif?cid=ecf05e475s7ltj4373j7trkzedm6zy1tzy37764gdknt8bcc&rid=giphy.gif&ct=g" width="30" height= "20">
