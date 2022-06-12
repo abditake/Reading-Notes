@@ -1,4 +1,5 @@
-# Sql Database
+# [Sql Database](/README.md)
+
 <hr>
 
 ### tasks 1-6 and 13-18
@@ -50,8 +51,6 @@
  ### task 1-6(complete)
  <hr>
   
-
-
   <img src="/assets/task 1.jpg" width="100">
   <img src="/assets/task 2.jpg" width="100">
   <img src="/assets/task 3.jpg" width="100">
