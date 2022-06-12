@@ -52,23 +52,23 @@
   
 
 
-  <img src="/assets/task 1.jpg"  style= "display: inline" alt="tasks" width="100">
-  <img src="/assets/task 2.jpg" style= "display: inline" alt="tasks" width="100">
-  <img src="/assets/task 3.jpg" style= "display: inline" alt="tasks" width="100">
-  <img src="/assets/task 4.jpg" style= "display: inline" alt="tasks" width="100">
-  <img src="/assets/review 1.jpg" style= "display: inline" alt="tasks" width="100">
-  <img src="/assets/task 6.jpg" style= "display: inline" alt="tasks" width="100">
+  <img src="/assets/task 1.jpg" width="100">
+  <img src="/assets/task 2.jpg" width="100">
+  <img src="/assets/task 3.jpg" width="100">
+  <img src="/assets/task 4.jpg" width="100">
+  <img src="/assets/review 1.jpg" width="100">
+  <img src="/assets/task 6.jpg" width="100">
 
 
   ### task 13-18(complete)
  <hr>
 
-  <img src="/assets/task 13.jpg"  width="100">
-  <img src="/assets/task 14.jpg" style= "display: inline" alt="tasks" width="100">
-  <img src="/assets/task 15.jpg" style= "display: inline" alt="tasks" width="100">
-  <img src="/assets/task 16.jpg" style= "display: inline" alt="tasks" width="100">
-  <img src="/assets/task 17.jpg" style= "display: inline" alt="tasks" width="100">
-  <img src="/assets/task 18.jpg" style= "display: inline" alt="tasks" width="100">
+  <img src="/assets/task 13.jpg" width="100">
+  <img src="/assets/task 14.jpg" width="100">
+  <img src="/assets/task 15.jpg" width="100">
+  <img src="/assets/task 16.jpg" width="100">
+  <img src="/assets/task 17.jpg" width="100">
+  <img src="/assets/task 18.jpg" width="100">
 
 
 
