@@ -1,4 +1,4 @@
-# Sql Database Summary
+# Sql Database
 <hr>
 
 ### tasks 1-6 and 13-18
@@ -50,7 +50,9 @@
  ### task 1-6(complete)
  <hr>
 
-  <img src="/assets/task 1.jpg"  width="100">
+
+
+  <img src="/assets/task 1.jpg"  alt="tasks" width="100">
   <img src="/assets/task 2.jpg" alt="tasks" width="100">
   <img src="/assets/task 3.jpg" alt="tasks" width="100">
   <img src="/assets/task 4.jpg" alt="tasks" width="100">
