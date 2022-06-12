@@ -49,26 +49,26 @@
   ```
  ### task 1-6(complete)
  <hr>
+  
 
 
-
-  <img src="/assets/task 1.jpg"  alt="tasks" width="100">
-  <img src="/assets/task 2.jpg" alt="tasks" width="100">
-  <img src="/assets/task 3.jpg" alt="tasks" width="100">
-  <img src="/assets/task 4.jpg" alt="tasks" width="100">
-  <img src="/assets/review 1.jpg" alt="tasks" width="100">
-  <img src="/assets/task 6.jpg" alt="tasks" width="100">
+  <img src="/assets/task 1.jpg"  style= "display: inline" alt="tasks" width="100">
+  <img src="/assets/task 2.jpg" style= "display: inline" alt="tasks" width="100">
+  <img src="/assets/task 3.jpg" style= "display: inline" alt="tasks" width="100">
+  <img src="/assets/task 4.jpg" style= "display: inline" alt="tasks" width="100">
+  <img src="/assets/review 1.jpg" style= "display: inline" alt="tasks" width="100">
+  <img src="/assets/task 6.jpg" style= "display: inline" alt="tasks" width="100">
 
 
   ### task 13-18(complete)
  <hr>
 
   <img src="/assets/task 13.jpg"  width="100">
-  <img src="/assets/task 14.jpg" alt="tasks" width="100">
-  <img src="/assets/task 15.jpg" alt="tasks" width="100">
-  <img src="/assets/task 16.jpg" alt="tasks" width="100">
-  <img src="/assets/task 17.jpg" alt="tasks" width="100">
-  <img src="/assets/task 18.jpg" alt="tasks" width="100">
+  <img src="/assets/task 14.jpg" style= "display: inline" alt="tasks" width="100">
+  <img src="/assets/task 15.jpg" style= "display: inline" alt="tasks" width="100">
+  <img src="/assets/task 16.jpg" style= "display: inline" alt="tasks" width="100">
+  <img src="/assets/task 17.jpg" style= "display: inline" alt="tasks" width="100">
+  <img src="/assets/task 18.jpg" style= "display: inline" alt="tasks" width="100">
 
 
 
