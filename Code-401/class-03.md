@@ -11,12 +11,14 @@
 # Review: ES6 Classes
 
 - ### Classes are a template for creating ____.
-
+    - objects
 
 - ### Can a class declaration be hoisted?
 
-
+    - class declarations need to be defined before an object is constructed
 - ### How would you describe a constructor and contextual “this” to a non-technical friend?
+
+    - a constructor is the blueprint for creating object types
 
 <hr>
 
