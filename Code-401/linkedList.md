@@ -21,11 +21,36 @@ Linked List:
  ## Implementation: 
   - ###  The basic parts of a given linked list to be defined in code for a linked list to work is the begining of the node. This because if each node contains data to where the next node begins then it start at the first node then move to the next node then third then fourth etc...
   - the second memeory cell in a node acts as a pointer to the start of node that follows  it in the linked list. 
-  - Reads in a linked list are O(N) whilein arrays its O(1)
+  
+## Big O Efficency and Scenario Cases Compared to Array:
+
+# Insertion :
+| Scenario           | Array       | LinkedList
+| -----------        | ----------- |-----------
+| Insert at beginning| Worst Case  | Best Case
+| Insert at Middle   | Average Case| Average Case
+| Insert at End      | Best Case   | Worst Case
 
 
 
 
+# Deletion : 
+
+| Scenario           | Array       | LinkedList
+| -----------        | ----------- |-----------
+| Delete at beginning| Worst Case  | Best Case
+| Delete at Middle   | Average Case| Average Case
+| Delete at End      | Best Case   | Worst Case
+
+
+# Deletion : 
+
+| Operation          | Array                   | LinkedList
+| -----------        | -----------             |-----------
+| Reading            | O(1)                    | O(N)
+| Search             | O(N)                    | O(N)
+| Insertion          | O(N) (O(1) at end)      | O(N) (O(1) at beginning) 
+| Deletion           | O(N) (O(1) at end)      | O(N) (O(1) at beginning) 
 
 
 
