@@ -1,4 +1,4 @@
-# [Class 03: Data Modeling](/README.md
+# [Class 06: Data Modeling](/README.md)
 
 ## [Securing Passwords](https://thehackernews.com/2014/04/securing-passwords-with-bcrypt-hashing.html)
 

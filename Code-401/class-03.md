@@ -1,4 +1,4 @@
-# [Class 03: Express REST API](/README.md
+# [Class 03: Express REST API](/README.md)
 
 ## [Review if helpful: An Introduction to Node.js on sitepoint.com](https://www.sitepoint.com/an-introduction-to-node-js/)
 

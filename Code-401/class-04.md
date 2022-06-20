@@ -1,5 +1,5 @@
 
-# [Class 03: Data Modeling](/README.md
+# [Class 03: Data Modeling](/README.md)
 
 ## [nosql vs sql](https://www.thegeekstuff.com/2014/01/sql-vs-nosql-db/?utm_source=tuicool)
 
