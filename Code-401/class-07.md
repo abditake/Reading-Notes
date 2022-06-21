@@ -1,4 +1,4 @@
-# [Class 06: Data Modeling](/README.md)
+# [Class 07: Bearer Authorization](/README.md)
 
 ## [Intro to JWT](https://jwt.io/introduction/)
 
