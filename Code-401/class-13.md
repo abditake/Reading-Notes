@@ -1,4 +1,4 @@
- # [Class 12: Socket.io](/README.md)
+ # [Class 13: Message Queues](/README.md)
 
 ## [Socket.io Chat Example](https://socket.io/get-started/chat/)
 ## [Rooms](https://socket.io/docs/v4/rooms)
