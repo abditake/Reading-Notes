@@ -1,18 +1,13 @@
- # [Class 12: Socket.io](/README.md)
+# [Class 16: AWS: Cloud Servers](/README.md)
 
 
 ## [AWS EC2](https://aws.amazon.com/ec2/)
 ## [EC2 For Humans](https://www.youtube.com/watch?v=lZMkgOMYYIg)
 ## [Elastic Beanstalk](https://www.youtube.com/watch?v=SrwxAScdyT0)
 
-
 <hr>
 
-
-
-
 ## AWS EC2
-
 
 - What is an EC2 Instance?
     - a virtual server that runs applications on AWS infrastructure.
@@ -25,22 +20,21 @@
 
 <hr>
 
-
 ## EC2 For Humans
-
 
 - Where can we find EC2 on the AWS Console?
   - `https://aws.amazon.com/console/`
 - Explain the general difference between T2 Micro and XL.
   - performance T2.micro just has 1 gb of alloted ssd memory and 1 cpu.
-  - xl has 64 cpus' 488 gb of ssd space and a dedicated 8x1900 ssd storage for persisting data. this data doesn't get removed once the instance is shutdown.
+  - xl has 64 cpu capacity 488 gb of ssd space and a dedicated 8x1900 ssd storage for persisting data. this data doesn't get removed once the instance is shutdown.
 - Explain a “Compute Cycle” to a non-technical friend.
+  - reboot: data stays on where we first hosted
+  - stop/start: move to a new host
+  - hibernate: move to a new host 
+  - terminate: completely shutdown
 <hr>
 
-
-
 ## Elastic Beanstalk
-
 
 - What is Elastic Beanstalk?
   - Service that deploys, manages, and scales web apps and services.
