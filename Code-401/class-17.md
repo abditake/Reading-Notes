@@ -27,18 +27,21 @@
 
 - What is AWS Lambda?
   - serverless computing service 
-  - creates functions , self-contained apps and 
-uploads them to AWS lambda which executes those 
+  - creates functions , self-contained apps and uploads them to AWS lambda which executes those 
 function efficiently 
 - Name some use cases for AWS Lambdas.
     - scalable API
     - Data processing 
     - data analytics with dynamoDB
 - Describe “serverless” to a non-technical friend.
-  - using a leafblower you have to carry around a backpack with a a small motor.
+  - Having all your documents and file stored right next to you at your office vs having them all stored somewhere in arkansas where you can get them on your phone whenever you need it also it gets organized. 
 
 ## CDN
 
 - What is a CDN?
+  - group of servers distributed by location, to ensure fastest possible delivery of content to users.
 - How does a CDN work with relation to the website visitor?
+  - the servers that are nearest to the website visitors repand to request
 - What are the benefits of employing a CDN?
+  - protects from dns attacks
+  - Increased speed of content delivered
