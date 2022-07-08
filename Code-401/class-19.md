@@ -32,10 +32,10 @@ pushed to receivers. SQS also doesn't push messages to multiple receivers like S
   - a single event that then gets passed to multiple processes. like a binary tree but it all started with a root or in this case that one transaction or event. 
   
 - Explain how “push notifications” work, using SNS.
-  - 
+  - a message is sent via payload to your lambda function. then it can send an email. 
 
 # SQS and SNS Basics
 
 - How might a large scale, distributed application make use of a Queue system like SQS?
-
+  - large scale applications a queue system is used as a safe buffer
 
