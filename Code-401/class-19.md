@@ -29,9 +29,10 @@ pushed to receivers. SQS also doesn't push messages to multiple receivers like S
 # AWS SNS and SQS
 
 - Describe how to use SQS and SNS in a “fanout” pattern.
-  - 
+  - a single event that then gets passed to multiple processes. like a binary tree but it all started with a root or in this case that one transaction or event. 
   
 - Explain how “push notifications” work, using SNS.
+  - 
 
 # SQS and SNS Basics
 
