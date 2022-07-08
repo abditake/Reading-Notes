@@ -1,4 +1,4 @@
-# [Class 16: AWS: Cloud Servers](/README.md)
+# [Class 17: AWS: Cloud Servers](/README.md)
 
 
 ## [AWS S3](https://aws.amazon.com/s3/)
