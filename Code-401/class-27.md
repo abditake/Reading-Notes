@@ -1,9 +1,9 @@
 # [Class-27: `useState()` Hook](/README.md)
 
 
-## [react hello world](https://reactjs.org/docs/hooks-intro.html#motivation)
-## [introducing JSX](https://reactjs.org/docs/hooks-overview.html)
-## [rendering elements](https://reactjs.org/docs/hooks-state.html)
+## [Introducing Hooks](https://reactjs.org/docs/hooks-intro.html#motivation)
+## [hooks api](https://reactjs.org/docs/hooks-overview.html)
+## [the state hook](https://reactjs.org/docs/hooks-state.html)
 <hr>
 
 
