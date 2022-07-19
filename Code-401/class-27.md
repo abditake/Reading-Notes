@@ -30,13 +30,13 @@
 # the state hook
 
 - What is a Hook?
+  - A Hook is a special function that lets you “hook into” React features
 - When would I use the useState Hook?
-  - 
+  - If you write a function component and realize you need to add some state to it.
 - If you were to add React state to a function component by declaring a state variable:
-  - 
-- What does calling useState do?
-  - 
-- What do we pass to useState as an argument?
-  - 
-- What does useState return?
-  - 
+    - What does calling useState do?
+      - it declares a state variable. allows you to preserve some values between function calls.
+    - What do we pass to useState as an argument?
+      - object, number or string as the initial state. 
+    - What does useState return?
+      - returns a pair of values
