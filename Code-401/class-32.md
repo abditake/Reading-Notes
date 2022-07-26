@@ -16,5 +16,7 @@
 # Awesome React Context links
 
 - Consume content from (at least) two more of the Awesome React Context links. After some familiarity with React Context, once again share your takeaways from each:
-  - Takeaway 1:
-  - Takeaway 2:
+  - [unstated](https://github.com/jamiebuilds/unstated):
+    - 
+  - [dakpan](https://github.com/houfio/dakpan):
+    - it's just a state management tool for react hooks. can we be used with that same type of provider syntax with context.
