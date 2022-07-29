@@ -90,8 +90,25 @@
     - The process will complete until the queue is empty.
     - nce the while loop breaks, we can then return the list of nodes. This list will contain, in order, all the nodes that were traversed.
 
+
   - DepthFirst
-  - 
+
+  - depth first traversal uses a Stack to visit all children of a given subtree.
+    - Push the root node into the Stack and mark as visited.
+    - Start a while loop that runs as long as the stack is not empty.
+    - Pop the top node off of the stack and check its neighbors.
+    - If a neighbor hasn’t been visited, push it onto the stack and mark as visited.
+    - Repeat until the stack is empty.
+
+# Real World Uses of Graphs
+
+  - GPS and Mapping
+  - Driving Directions
+  - Social Networks
+  - Airline Traffic
+  - Neural Networks
+
+
 
 
 
