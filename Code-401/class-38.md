@@ -15,10 +15,15 @@
   - adding event handlers with dispatch
 
 # thunk middleware
-
 - Why would you need redux-thunk middleware?
   - allows writing async logic within redux 
 - Redux Thunk middleware allows you to write action creators that return a ____ instead of an action.
   - function
 - Describe how any return value from the inner thunk function will be made available.
   - it will be available as the return value of the dispatch. for example in the diagram there was a dispatch from the event handler to middleware with an action; that actions return is in the dispatch. 
+
+
+
+# Async Redux Data flow
+
+ ![async redux data flow](https://d33wubrfki0l68.cloudfront.net/08d01ed85246d3ece01963408572f3f6dfb49d41/4bc12/assets/images/reduxasyncdataflowdiagram-d97ff38a0f4da0f327163170ccc13e80.gif)
