@@ -1,4 +1,4 @@
-# [Class-37: Combined Reducers ](/README.md)
+# [Class-38: Combined Reducers ](/README.md)
 
 ## [async actions](https://redux.js.org/tutorials/fundamentals/part-6-async-logic)
 
